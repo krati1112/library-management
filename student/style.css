@@ -1,0 +1,119 @@
+.wrapper
+{
+	height: 699px;
+	width: 1500px;
+	/*background-color: red;*/
+}
+header
+{
+	height: 150px;
+	width: 1520px;
+	background-color: #3b5373;
+}
+section
+{
+	height: 550px;
+	width: 1520px;
+	background-color: grey;
+}
+footer
+{
+	height: 79px;
+	width: 1520px;
+	background-color: #3b5373;
+}
+.logo
+{   float: left;
+	padding-left: 15px;
+
+	
+}
+.logo img
+{
+	padding-left: 50px;
+
+}
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+nav
+{
+	float: right;
+	word-spacing: 30px;
+	padding: 20px;
+}
+nav li
+{
+	display: inline-block;
+	line-height: 50px;
+}
+section .sec_image
+{   height: 550px;
+	margin-top:  0px;
+	background-image: url("images/4.jpg");
+}
+.box
+{
+	background-color: brown;
+	width: 600px;
+	height: 400px;
+	margin: 40px auto ;
+	opacity: .7;
+	color: white;
+
+}
+/*-----------------------st_login--------------------------------------*/
+.log_img
+{
+	height: 550px;
+	margin-top:  0px;
+	background-image: url("images/5.jpg");
+}
+.box1
+{
+	background-color: grey;
+	width: 400px;
+	height: 400px;
+	margin: 30px auto ;
+	opacity: .7;
+	color: white;
+}
+form .signin
+{
+	margin: auto 50px;
+}
+input
+{
+	height: 30px;
+	width: 300px;
+}
+/*----------------------------------------registration---------------------------------*/
+.reg_img
+{
+	height: 600px;
+	margin-top: 0px;
+	padding-top: 2px;
+	
+
+	background-image: url("images/7.jpg");
+}
+.box2
+{
+	background-color: #ff21f296;
+	width: 400px;
+	height: 570px;
+	margin:  20px auto ;
+	opacity: .7;
+	color: white;
+}
+form .Registration
+{
+	margin: auto 80px;
+}
+input
+{
+	height: 30px;
+	width: 100px;
+}
